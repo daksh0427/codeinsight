@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Environment variables (NEVER commit these)
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.swo
+
+# Personal / interview prep notes (not for public repo)
+COMPLETE_INTERVIEW_TECH_STACK_AND_CODE_FLOW.md
+INTERVIEW_PREP_GUIDE.md
+INTERVIEW_PROJECT_EXPLANATION.txt
+revise.md
+detailedexplainition.md
